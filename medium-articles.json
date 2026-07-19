@@ -1,0 +1,175 @@
+{
+  "fetchedAt": "2026-07-19T16:12:18.405Z",
+  "articles": [
+    {
+      "title": "ChatGPT Work Just Dropped — And I’ve Spent 5 Hours Diving Deep. Here’s What I Found.",
+      "link": "https://medium.com/@ishank.iandroid/chatgpt-work-just-dropped-and-ive-spent-5-hours-diving-deep-here-s-what-i-found-edfc210e958a?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-10 03:53:45",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "It’s only been 10 hours since launch, but this tool is already transforming how I approach software development. Have you ever hit a wall on a coding problem, or spent hours wrestling with boilerplate code that felt utte…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*2nZ17Xbuwzq_JXEgSRfQEQ.png",
+      "categories": [
+        "ai",
+        "large-language-models",
+        "chatgpt-work",
+        "ai-agent",
+        "chatgpt"
+      ],
+      "readingTime": 9
+    },
+    {
+      "title": "HTMX Explained: The “Dumb” HTML Secret Replacing React",
+      "link": "https://blog.stackademic.com/htmx-explained-the-dumb-html-secret-replacing-react-2c1c25c1b78e?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-08 05:31:00",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "Why this 16KB library is challenging SPA giants and how it could simplify your next web project. Have you ever found yourself in the deep trenches of a complex web application, wrestling with client-side state, mountains…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*DW6H-DE662TmhcDhM2NQ4A.png",
+      "categories": [
+        "web-development",
+        "react",
+        "htmx",
+        "developer",
+        "open-source"
+      ],
+      "readingTime": 8
+    },
+    {
+      "title": "PxPipe: My Deep Dive into Cutting Claude’s Token Costs by 70%",
+      "link": "https://medium.com/@ishank.iandroid/pxpipe-my-deep-dive-into-cutting-claudes-token-costs-by-70-d44a56ccefab?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-07 03:46:00",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "Here’s how I drastically slashed my LLM bills and unlocked massive context windows without breaking the bank. Have you ever found yourself staring at your LLM API bill, wondering if there’s a secret handshake you’re miss…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*J20YGTetNbPuYSzu49sfrQ.png",
+      "categories": [
+        "artificial-intelligence",
+        "llm",
+        "open-source",
+        "ai",
+        "software-development"
+      ],
+      "readingTime": 9
+    },
+    {
+      "title": "Supercharge Your AI Workflows: Why Tmux is My Secret Weapon",
+      "link": "https://medium.com/@ishank.iandroid/supercharge-your-ai-workflows-why-tmux-is-my-secret-weapon-3b3bb4b96f0e?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-02 16:08:04",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "Tired of juggling terminals? I discovered how Tmux transforms AI development, boosting my productivity and focus. https://github.com/tmux/tmux Have you ever found yourself deep in an AI project, with a dozen terminal win…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*uF_4ed9bM30zEsBkjZBJTg.png",
+      "categories": [
+        "generative-ai-tools",
+        "ai",
+        "artificial-intelligence",
+        "ai-agent",
+        "open-source"
+      ],
+      "readingTime": 7
+    },
+    {
+      "title": "Scrapling: The Adaptive Web Scraping Framework That Changed My Workflow",
+      "link": "https://medium.com/@ishank.iandroid/scrapling-the-adaptive-web-scraping-framework-that-changed-my-workflow-0987637f7d5b?source=rss-1e910a184252------2",
+      "pubDate": "2026-05-11 10:41:00",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I dove deep into this powerful Python library, and here’s why it’s a game-changer for modern data extraction and anti-bot bypass. As developers, we’ve all been there: staring at a website, knowing the data we need is jus…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*ok5P9Qr-J3TuRVa38h6OWQ.png",
+      "categories": [
+        "web-scraping",
+        "data-extraction",
+        "open-source",
+        "software-development",
+        "web-scraping-tools"
+      ],
+      "readingTime": 8
+    },
+    {
+      "title": "Ling-2.6–1T: The Trillion-Parameter Powerhouse That’s Changing My Workflow",
+      "link": "https://medium.com/@ishank.iandroid/ling-2-6-1t-the-trillion-parameter-powerhouse-thats-changing-my-workflow-52885f44215c?source=rss-1e910a184252------2",
+      "pubDate": "2026-05-08 11:02:40",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I dove deep into this new model, and here’s why it’s a game-changer for complex agentic tasks and efficiency. Have you ever found yourself wrestling with large language models, trying to balance raw intelligence with the…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*dKsTtXJRuMDqXXMobIuJrw.png",
+      "categories": [
+        "open-source",
+        "llm",
+        "large-language-models",
+        "ai",
+        "artificial-intelligence"
+      ],
+      "readingTime": 6
+    },
+    {
+      "title": "Your Server Is Healthy. Your AI Is Not. Here’s Why That’s a Silent Killer.",
+      "link": "https://medium.com/@ishank.iandroid/your-server-is-healthy-your-ai-is-not-heres-why-that-s-a-silent-killer-c986cb9c932a?source=rss-1e910a184252------2",
+      "pubDate": "2026-05-05 12:02:25",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "After battling silent AI failures for months, I discovered the observability shift that saved my projects (and my sanity). As developers, we’re conditioned to trust our monitoring dashboards. Green lights, low latency, n…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*FJBiEgRgXew7aV17vcweaQ.png",
+      "categories": [
+        "ai",
+        "ai-agent",
+        "generative-ai-tools",
+        "artificial-intelligence",
+        "software-development"
+      ],
+      "readingTime": 12
+    },
+    {
+      "title": "Unqork 8.2.0: The Developer’s Secret Weapon for Faster, Safer Builds",
+      "link": "https://medium.com/@ishank.iandroid/unqork-8-2-0-the-developers-secret-weapon-for-faster-safer-builds-a3d08960f9e0?source=rss-1e910a184252------2",
+      "pubDate": "2026-05-04 10:36:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I dove deep into the latest Unqork release, and here’s how it’s about to supercharge your development workflow and empower configurators like never before. Have you ever felt that familiar rush of excitement when a new s…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*sZyk6luUskmpf-AaN84pcg.png",
+      "categories": [
+        "no-code",
+        "unqork",
+        "low-code",
+        "no-code-platform",
+        "unqork-training-in-india"
+      ],
+      "readingTime": 10
+    },
+    {
+      "title": "Manus — Cloud Computer: My Honest Take After a Deep Dive Last Night",
+      "link": "https://medium.com/@ishank.iandroid/manus-cloud-computer-my-honest-take-after-a-deep-dive-last-night-87300febbe8f?source=rss-1e910a184252------2",
+      "pubDate": "2026-05-04 04:41:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "Is this the future of always-on development? I pulled an all-nighter with it, and here’s what I truly found. As developers, we’re constantly on the hunt for tools that make our lives easier, our code run smoother, and ou…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*OClN-TvwCqUMTGRHJ_BreA.png",
+      "categories": [
+        "agentic-ai",
+        "cloud-computing",
+        "ai",
+        "artificial-intelligence",
+        "ai-agent"
+      ],
+      "readingTime": 11
+    },
+    {
+      "title": "Decoding AI Costs: My Secret Weapon for Smarter Coding",
+      "link": "https://medium.com/@ishank.iandroid/decoding-ai-costs-my-secret-weapon-for-smarter-coding-b8d0238606d1?source=rss-1e910a184252------2",
+      "pubDate": "2026-05-03 04:31:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I used to guess where my AI tokens went. Here’s how Codeburn — See where your AI coding tokens go. gave me clarity and saved my budget. As a developer, I’ve fully embraced the AI coding revolution. From autocompletion to…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*Nsgj_YABifmdl_eY_bFecQ.png",
+      "categories": [
+        "generative-ai-tools",
+        "artificial-intelligence",
+        "token",
+        "ai",
+        "claude-code"
+      ],
+      "readingTime": 8
+    }
+  ]
+}
