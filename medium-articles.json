@@ -1,6 +1,40 @@
 {
-  "fetchedAt": "2026-07-19T16:27:09.197Z",
+  "fetchedAt": "2026-07-22T05:12:32.868Z",
   "articles": [
+    {
+      "title": "Tired of Manual Project Launches? I Discovered a Dev Tool That Automates the “Brag”",
+      "link": "https://medium.com/@ishank.iandroid/tired-of-manual-project-launches-i-discovered-a-dev-tool-that-automates-the-brag-ec4170ee5df2?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-22 03:46:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "Here’s how a game-changing skill transformed my workflow and helped me showcase projects effortlessly, saving hours of effort. Have you ever poured your heart and soul into a coding project, spent countless late nights d…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*Ys8-rwZjuS0RYk5Obky4-A.png",
+      "categories": [
+        "video-marketing",
+        "claude-code",
+        "project-showcase",
+        "ai",
+        "brag"
+      ],
+      "readingTime": 8
+    },
+    {
+      "title": "Colibrì: The Hummingbird Engine Bringing 744B LLMs to Your Laptop",
+      "link": "https://medium.com/@ishank.iandroid/colibr%C3%AC-the-hummingbird-engine-bringing-744b-llms-to-your-laptop-93f638d46f32?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-21 05:56:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I dove deep into this groundbreaking project, and here’s how it’s redefining what’s possible for consumer-grade AI. Have you ever felt that gnawing frustration when a groundbreaking new AI model drops, only for you to re…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*Gf3NjPDYEGmH3FlXmt082A.png",
+      "categories": [
+        "llm",
+        "colibri",
+        "ai",
+        "artificial-intelligence",
+        "large-language-models"
+      ],
+      "readingTime": 8
+    },
     {
       "title": "ChatGPT Work Just Dropped — And I’ve Spent 5 Hours Diving Deep. Here’s What I Found.",
       "link": "https://medium.com/@ishank.iandroid/chatgpt-work-just-dropped-and-ive-spent-5-hours-diving-deep-here-s-what-i-found-edfc210e958a?source=rss-1e910a184252------2",
@@ -136,40 +170,6 @@
         "unqork-training-in-india"
       ],
       "readingTime": 10
-    },
-    {
-      "title": "Manus — Cloud Computer: My Honest Take After a Deep Dive Last Night",
-      "link": "https://medium.com/@ishank.iandroid/manus-cloud-computer-my-honest-take-after-a-deep-dive-last-night-87300febbe8f?source=rss-1e910a184252------2",
-      "pubDate": "2026-05-04 04:41:01",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "Is this the future of always-on development? I pulled an all-nighter with it, and here’s what I truly found. As developers, we’re constantly on the hunt for tools that make our lives easier, our code run smoother, and ou…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*OClN-TvwCqUMTGRHJ_BreA.png",
-      "categories": [
-        "agentic-ai",
-        "cloud-computing",
-        "ai",
-        "artificial-intelligence",
-        "ai-agent"
-      ],
-      "readingTime": 11
-    },
-    {
-      "title": "Decoding AI Costs: My Secret Weapon for Smarter Coding",
-      "link": "https://medium.com/@ishank.iandroid/decoding-ai-costs-my-secret-weapon-for-smarter-coding-b8d0238606d1?source=rss-1e910a184252------2",
-      "pubDate": "2026-05-03 04:31:01",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "I used to guess where my AI tokens went. Here’s how Codeburn — See where your AI coding tokens go. gave me clarity and saved my budget. As a developer, I’ve fully embraced the AI coding revolution. From autocompletion to…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*Nsgj_YABifmdl_eY_bFecQ.png",
-      "categories": [
-        "generative-ai-tools",
-        "artificial-intelligence",
-        "token",
-        "ai",
-        "claude-code"
-      ],
-      "readingTime": 8
     }
   ]
 }
