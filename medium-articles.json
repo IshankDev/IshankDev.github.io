@@ -1,9 +1,60 @@
 {
-  "fetchedAt": "2026-07-22T05:21:29.062Z",
+  "fetchedAt": "2026-07-29T17:57:54.722Z",
   "articles": [
     {
+      "title": "Cursor Start: The Game-Changer for Indian Developers Just Dropped!",
+      "link": "https://medium.com/@ishank.iandroid/cursor-start-the-game-changer-for-indian-developers-just-dropped-acb3125a3146?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-29 04:03:21",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I dove deep into Cursor’s new plan for India, and here’s why it’s set to redefine our software development landscape, starting today. Have you ever felt that gnawing frustration when you discover an incredible developer …",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*SnzsORWRpGgQkDTiSnuQlQ.png",
+      "categories": [
+        "ai",
+        "composer",
+        "software-development",
+        "coding",
+        "cursor"
+      ],
+      "readingTime": 7
+    },
+    {
+      "title": "My Deep Dive into Grok Build: The AI Agent Redefining My Workflow",
+      "link": "https://medium.com/@ishank.iandroid/my-deep-dive-into-grok-build-the-ai-agent-redefining-my-workflow-ade79551ff74?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-28 05:41:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I spent weeks exploring SpaceXAI’s revolutionary terminal-based tool, and here’s how it’s poised to redefine software development. Have you ever felt the friction of context switching when coding? That constant dance bet…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*lWmtLTejUIK85OPf6fryAg.png",
+      "categories": [
+        "artificial-intelligence",
+        "vibe-coding",
+        "coding",
+        "grok-build",
+        "grok-ai"
+      ],
+      "readingTime": 8
+    },
+    {
+      "title": "OmniRoute: The AI Gateway That Transformed My Development Workflow",
+      "link": "https://medium.com/@ishank.iandroid/omniroute-the-ai-gateway-that-transformed-my-development-workflow-422f11e6187e?source=rss-1e910a184252------2",
+      "pubDate": "2026-07-27 04:41:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I spent weeks exploring this game-changing AI gateway, and here’s how it’s revolutionizing my development and saving me a fortune. Have you ever felt overwhelmed trying to juggle multiple AI APIs, constantly battling rat…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*u0Z9Mz_HjPrK43vyuj4zJQ.png",
+      "categories": [
+        "artificial-intelligence",
+        "ai",
+        "omni-route",
+        "vibe-coding",
+        "developer-tools"
+      ],
+      "readingTime": 8
+    },
+    {
       "title": "Tired of Manual Project Launches? I Discovered a Dev Tool That Automates the “Brag”",
-      "link": "https://medium.com/@ishank.iandroid/tired-of-manual-project-launches-i-discovered-a-dev-tool-that-automates-the-brag-ec4170ee5df2?source=rss-1e910a184252------2",
+      "link": "https://ai.plainenglish.io/tired-of-manual-project-launches-i-discovered-a-dev-tool-that-automates-the-brag-ec4170ee5df2?source=rss-1e910a184252------2",
       "pubDate": "2026-07-22 03:46:01",
       "author": "Ishank choudhary",
       "publication": "Medium",
@@ -119,57 +170,6 @@
         "web-scraping-tools"
       ],
       "readingTime": 8
-    },
-    {
-      "title": "Ling-2.6–1T: The Trillion-Parameter Powerhouse That’s Changing My Workflow",
-      "link": "https://medium.com/@ishank.iandroid/ling-2-6-1t-the-trillion-parameter-powerhouse-thats-changing-my-workflow-52885f44215c?source=rss-1e910a184252------2",
-      "pubDate": "2026-05-08 11:02:40",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "I dove deep into this new model, and here’s why it’s a game-changer for complex agentic tasks and efficiency. Have you ever found yourself wrestling with large language models, trying to balance raw intelligence with the…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*dKsTtXJRuMDqXXMobIuJrw.png",
-      "categories": [
-        "open-source",
-        "llm",
-        "large-language-models",
-        "ai",
-        "artificial-intelligence"
-      ],
-      "readingTime": 6
-    },
-    {
-      "title": "Your Server Is Healthy. Your AI Is Not. Here’s Why That’s a Silent Killer.",
-      "link": "https://medium.com/@ishank.iandroid/your-server-is-healthy-your-ai-is-not-heres-why-that-s-a-silent-killer-c986cb9c932a?source=rss-1e910a184252------2",
-      "pubDate": "2026-05-05 12:02:25",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "After battling silent AI failures for months, I discovered the observability shift that saved my projects (and my sanity). As developers, we’re conditioned to trust our monitoring dashboards. Green lights, low latency, n…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*FJBiEgRgXew7aV17vcweaQ.png",
-      "categories": [
-        "ai",
-        "ai-agent",
-        "generative-ai-tools",
-        "artificial-intelligence",
-        "software-development"
-      ],
-      "readingTime": 12
-    },
-    {
-      "title": "Unqork 8.2.0: The Developer’s Secret Weapon for Faster, Safer Builds",
-      "link": "https://medium.com/@ishank.iandroid/unqork-8-2-0-the-developers-secret-weapon-for-faster-safer-builds-a3d08960f9e0?source=rss-1e910a184252------2",
-      "pubDate": "2026-05-04 10:36:01",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "I dove deep into the latest Unqork release, and here’s how it’s about to supercharge your development workflow and empower configurators like never before. Have you ever felt that familiar rush of excitement when a new s…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*sZyk6luUskmpf-AaN84pcg.png",
-      "categories": [
-        "no-code",
-        "unqork",
-        "low-code",
-        "no-code-platform",
-        "unqork-training-in-india"
-      ],
-      "readingTime": 10
     }
   ]
 }

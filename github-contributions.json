@@ -1,44 +1,9 @@
 {
-  "fetchedAt": "2026-07-22T05:21:29.995Z",
+  "fetchedAt": "2026-07-29T17:57:57.353Z",
   "username": "IshankDev",
-  "totalLastYear": 223,
-  "publicRepos": 24,
+  "totalLastYear": 232,
+  "publicRepos": 27,
   "contributions": [
-    {
-      "date": "2025-07-20",
-      "count": 3,
-      "level": 2
-    },
-    {
-      "date": "2025-07-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-22",
-      "count": 1,
-      "level": 1
-    },
-    {
-      "date": "2025-07-23",
-      "count": 2,
-      "level": 1
-    },
-    {
-      "date": "2025-07-24",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-25",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-07-26",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-07-27",
       "count": 0,
@@ -1841,6 +1806,41 @@
     },
     {
       "date": "2026-07-22",
+      "count": 8,
+      "level": 3
+    },
+    {
+      "date": "2026-07-23",
+      "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-07-24",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-07-25",
+      "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-07-26",
+      "count": 2,
+      "level": 1
+    },
+    {
+      "date": "2026-07-27",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-07-28",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-07-29",
       "count": 0,
       "level": 0
     }
