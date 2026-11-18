@@ -1,173 +1,173 @@
 {
-  "fetchedAt": "2026-07-30T03:14:08.906Z",
+  "fetchedAt": "2026-11-18T04:26:46.355Z",
   "articles": [
     {
-      "title": "Cursor Start: The Game-Changer for Indian Developers Just Dropped!",
-      "link": "https://medium.com/@ishank.iandroid/cursor-start-the-game-changer-for-indian-developers-just-dropped-acb3125a3146?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-29 04:03:21",
+      "title": "AWS Emulator Hands-On: Test S3, Lambda and DynamoDB Locally With a Coding Agent",
+      "link": "https://blog.stackademic.com/aws-emulator-hands-on-test-s3-lambda-and-dynamodb-locally-with-a-coding-agent-5981ba5495c6?source=rss-1e910a184252------2",
+      "pubDate": "2026-11-16 05:01:19",
       "author": "Ishank choudhary",
       "publication": "Medium",
-      "description": "I dove deep into Cursor’s new plan for India, and here’s why it’s set to redefine our software development landscape, starting today. Have you ever felt that gnawing frustration when you discover an incredible developer …",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*SnzsORWRpGgQkDTiSnuQlQ.png",
+      "description": "I had a coding agent build an S3 → Lambda → DynamoDB service against it in Docker, with no AWS account. 3 of 3 runs ended with passing tests, in a median 3 min 7 s. Then I hit the 1,000-object bucket cap. On 11 November …",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*ebggaFWKXfe3_cZqeKT7mw.jpeg",
       "categories": [
-        "ai",
-        "composer",
-        "software-development",
-        "coding",
-        "cursor"
+        "serverless",
+        "aws",
+        "developer-tools",
+        "docker",
+        "ai-agent"
       ],
-      "readingTime": 7
+      "readingTime": 11
     },
     {
-      "title": "My Deep Dive into Grok Build: The AI Agent Redefining My Workflow",
-      "link": "https://medium.com/@ishank.iandroid/my-deep-dive-into-grok-build-the-ai-agent-redefining-my-workflow-ade79551ff74?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-28 05:41:01",
+      "title": "claude-mem Hands-On: Persistent Memory for AI Coding Agents Across Sessions",
+      "link": "https://ai.plainenglish.io/claude-mem-hands-on-persistent-memory-for-ai-coding-agents-across-sessions-5cf5a3dad1ef?source=rss-1e910a184252------2",
+      "pubDate": "2026-11-14 04:31:02",
       "author": "Ishank choudhary",
       "publication": "Medium",
-      "description": "I spent weeks exploring SpaceXAI’s revolutionary terminal-based tool, and here’s how it’s poised to redefine software development. Have you ever felt the friction of context switching when coding? That constant dance bet…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*lWmtLTejUIK85OPf6fryAg.png",
+      "description": "I gave a fresh session a task that depended on last session’s decision. With memory it got it right 3 out of 3 times; without it, 0 out of 3. Every request also carried about 5,200 extra tokens. A few weeks ago I tested …",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*Inv36jZXuFTsrBCzSAS7IQ.jpeg",
       "categories": [
-        "artificial-intelligence",
-        "vibe-coding",
-        "coding",
-        "grok-build",
-        "grok-ai"
-      ],
-      "readingTime": 8
-    },
-    {
-      "title": "OmniRoute: The AI Gateway That Transformed My Development Workflow",
-      "link": "https://medium.com/@ishank.iandroid/omniroute-the-ai-gateway-that-transformed-my-development-workflow-422f11e6187e?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-27 04:41:01",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "I spent weeks exploring this game-changing AI gateway, and here’s how it’s revolutionizing my development and saving me a fortune. Have you ever felt overwhelmed trying to juggle multiple AI APIs, constantly battling rat…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*u0Z9Mz_HjPrK43vyuj4zJQ.png",
-      "categories": [
-        "artificial-intelligence",
-        "ai",
-        "omni-route",
-        "vibe-coding",
-        "developer-tools"
-      ],
-      "readingTime": 8
-    },
-    {
-      "title": "Tired of Manual Project Launches? I Discovered a Dev Tool That Automates the “Brag”",
-      "link": "https://ai.plainenglish.io/tired-of-manual-project-launches-i-discovered-a-dev-tool-that-automates-the-brag-ec4170ee5df2?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-22 03:46:01",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "Here’s how a game-changing skill transformed my workflow and helped me showcase projects effortlessly, saving hours of effort. Have you ever poured your heart and soul into a coding project, spent countless late nights d…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*Ys8-rwZjuS0RYk5Obky4-A.png",
-      "categories": [
-        "video-marketing",
+        "context-engineering",
+        "developer-tools",
         "claude-code",
-        "project-showcase",
-        "ai",
-        "brag"
-      ],
-      "readingTime": 8
-    },
-    {
-      "title": "Colibrì: The Hummingbird Engine Bringing 744B LLMs to Your Laptop",
-      "link": "https://medium.com/@ishank.iandroid/colibr%C3%AC-the-hummingbird-engine-bringing-744b-llms-to-your-laptop-93f638d46f32?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-21 05:56:01",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "I dove deep into this groundbreaking project, and here’s how it’s redefining what’s possible for consumer-grade AI. Have you ever felt that gnawing frustration when a groundbreaking new AI model drops, only for you to re…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*Gf3NjPDYEGmH3FlXmt082A.png",
-      "categories": [
-        "llm",
-        "colibri",
-        "ai",
-        "artificial-intelligence",
-        "large-language-models"
-      ],
-      "readingTime": 8
-    },
-    {
-      "title": "ChatGPT Work Just Dropped — And I’ve Spent 5 Hours Diving Deep. Here’s What I Found.",
-      "link": "https://medium.com/@ishank.iandroid/chatgpt-work-just-dropped-and-ive-spent-5-hours-diving-deep-here-s-what-i-found-edfc210e958a?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-10 03:53:45",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "It’s only been 10 hours since launch, but this tool is already transforming how I approach software development. Have you ever hit a wall on a coding problem, or spent hours wrestling with boilerplate code that felt utte…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*2nZ17Xbuwzq_JXEgSRfQEQ.png",
-      "categories": [
-        "ai",
-        "large-language-models",
-        "chatgpt-work",
         "ai-agent",
+        "llm"
+      ],
+      "readingTime": 10
+    },
+    {
+      "title": "Claude Fable 5.2 Explained: Benchmarks, Pricing, API Specs and How It Relates to Mythos 5.2",
+      "link": "https://medium.com/@ishank.iandroid/claude-fable-5-2-explained-benchmarks-pricing-api-specs-and-how-it-relates-to-mythos-5-2-df7e56ebdc20?source=rss-1e910a184252------2",
+      "pubDate": "2026-11-11 04:31:02",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "Over 1,000 subagents built a bootable OS in eight days, and the price dropped to $8/$40. Here is what Anthropic actually published, number by number. Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 Novembe…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*0Gnr78ApgnkBrGXLxCJDsg.jpeg",
+      "categories": [
+        "large-language-models",
+        "anthropics",
+        "ai-agent",
+        "claude",
+        "artificial-intelligence"
+      ],
+      "readingTime": 11
+    },
+    {
+      "title": "billion-context Hands-On: Compressing Coding-Agent History to Fit a Small Context Window",
+      "link": "https://ai.plainenglish.io/billion-context-hands-on-compressing-coding-agent-history-to-fit-a-small-context-window-7cdbac4bf6b8?source=rss-1e910a184252------2",
+      "pubDate": "2026-11-09 11:31:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I ran a 41-request Gemini agent session through it: the final prompt shrank 2.9× and recall held, but on a short session it cost more Long agent sessions keep failing the same way for me. The window fills up with test lo…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*tBdnzcGkBzDUlqhCpn8qRA.jpeg",
+      "categories": [
+        "gemini-api",
+        "ai-agent",
+        "artificial-intelligence",
+        "prompt-caching",
+        "context-engineering"
+      ],
+      "readingTime": 8
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash Generates and Edits 15-Second Videos in the Gemini API for $0.07 a Second",
+      "link": "https://medium.com/@ishank.iandroid/gemini-omni-1-2-flash-generates-and-edits-15-second-videos-in-the-gemini-api-for-0-07-a-second-5172a9bbea96?source=rss-1e910a184252------2",
+      "pubDate": "2026-11-07 04:31:03",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I wired up Google’s new GA video model in Python: a 404 bug in google-genai 3.0.0, a hard 0-token Free Tier wall, measured input token costs, and what changes on December 3 On November 5, 2026, Google made Gemini Omni 1.…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*gDAkoC59qbAkPLGxcwx-bg.jpeg",
+      "categories": [
+        "generative-ai",
+        "video-generation",
+        "llm",
+        "gemini",
+        "python"
+      ],
+      "readingTime": 8
+    },
+    {
+      "title": "Aura Autopilot Review: An Open-Source AI Agent That Playtests Your Godot, Unity and Unreal Games",
+      "link": "https://medium.com/@ishank.iandroid/aura-autopilot-review-an-open-source-ai-agent-that-playtests-your-godot-unity-and-unreal-games-081fb9246738?source=rss-1e910a184252------2",
+      "pubDate": "2026-11-05 12:31:01",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I hid 4 bugs in a Godot game. It played with real keys and found all 4 in 4 minutes, plus one I didn’t know about. Then I compared it to a plain LLM. Every game dev I know has the same quiet dread: the bug a player finds…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*P0G6r6hEj7rBwmr2XrzVAw.png",
+      "categories": [
+        "open-source",
+        "artificial-intelligence",
+        "game-development",
+        "software-testing",
+        "godot"
+      ],
+      "readingTime": 8
+    },
+    {
+      "title": "HackerShelf: The Books Hacker News Recommends, Rebuilt from Karpathy’s HackerTube with Cursor",
+      "link": "https://ai.plainenglish.io/hackershelf-the-books-hacker-news-recommends-rebuilt-from-karpathys-hackertube-with-cursor-7a9cff210bc5?source=rss-1e910a184252------2",
+      "pubDate": "2026-11-03 04:31:03",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "Karpathy built HackerTube in about 2 hours with Claude Code. I rebuilt it for books with Cursor. Here’s my honest time, cost, and everything that broke. https://ishankdev.github.io/hackershelf/ On 1 Nov, Andrej Karpathy …",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*pd-axQuAYSCLdbPbmWECzw.png",
+      "categories": [
+        "andrej-karpathy",
+        "cursor",
+        "hacker-news",
+        "programming",
+        "ai-coding"
+      ],
+      "readingTime": 5
+    },
+    {
+      "title": "NVIDIA Nemotron 3.5 Bolt E4B: Running an Offline Voice Agent With Tool Calling on a CPU",
+      "link": "https://ai.plainenglish.io/nvidia-nemotron-3-5-bolt-e4b-running-an-offline-voice-agent-with-tool-calling-on-a-cpu-66ab95a5868a?source=rss-1e910a184252------2",
+      "pubDate": "2026-10-28 04:31:04",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "I gave NVIDIA’s new small model five tools, 60 prompts and no GPU. It picked the right tool every time, and a full spoken turn took about 4.5 seconds. NVIDIA released Nemotron 3.5 Bolt E4B on October 23. The pitch is a s…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*FTygsyt7XFsVNH3iyVXrQg.png",
+      "categories": [
+        "nemotron",
+        "voice-assistant",
+        "calling-function",
+        "artificial-intelligence",
+        "llm"
+      ],
+      "readingTime": 8
+    },
+    {
+      "title": "Claude Duet vs Grok Bot vs Muse vs Dots: Always-On AI Agents Compared (2026)",
+      "link": "https://ai.plainenglish.io/claude-duet-vs-grok-bot-vs-muse-vs-dots-always-on-ai-agents-compared-2026-887563c2d19e?source=rss-1e910a184252------2",
+      "pubDate": "2026-10-25 04:31:02",
+      "author": "Ishank choudhary",
+      "publication": "Medium",
+      "description": "Four companies now sell an AI that keeps working after you close the tab. I tested the one I could get my hands on and read every official doc on the other three. Here’s what each one really costs and does. Over six week…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*32kaX2suE--NJTsH70Gz4g.png",
+      "categories": [
+        "claude",
+        "productivity",
+        "ai-agent",
+        "artificial-intelligence",
         "chatgpt"
       ],
-      "readingTime": 9
-    },
-    {
-      "title": "HTMX Explained: The “Dumb” HTML Secret Replacing React",
-      "link": "https://blog.stackademic.com/htmx-explained-the-dumb-html-secret-replacing-react-2c1c25c1b78e?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-08 05:31:00",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "Why this 16KB library is challenging SPA giants and how it could simplify your next web project. Have you ever found yourself in the deep trenches of a complex web application, wrestling with client-side state, mountains…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*DW6H-DE662TmhcDhM2NQ4A.png",
-      "categories": [
-        "web-development",
-        "react",
-        "htmx",
-        "developer",
-        "open-source"
-      ],
-      "readingTime": 8
-    },
-    {
-      "title": "PxPipe: My Deep Dive into Cutting Claude’s Token Costs by 70%",
-      "link": "https://medium.com/@ishank.iandroid/pxpipe-my-deep-dive-into-cutting-claudes-token-costs-by-70-d44a56ccefab?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-07 03:46:00",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "Here’s how I drastically slashed my LLM bills and unlocked massive context windows without breaking the bank. Have you ever found yourself staring at your LLM API bill, wondering if there’s a secret handshake you’re miss…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*J20YGTetNbPuYSzu49sfrQ.png",
-      "categories": [
-        "artificial-intelligence",
-        "llm",
-        "open-source",
-        "ai",
-        "software-development"
-      ],
-      "readingTime": 9
-    },
-    {
-      "title": "Supercharge Your AI Workflows: Why Tmux is My Secret Weapon",
-      "link": "https://medium.com/@ishank.iandroid/supercharge-your-ai-workflows-why-tmux-is-my-secret-weapon-3b3bb4b96f0e?source=rss-1e910a184252------2",
-      "pubDate": "2026-07-02 16:08:04",
-      "author": "Ishank choudhary",
-      "publication": "Medium",
-      "description": "Tired of juggling terminals? I discovered how Tmux transforms AI development, boosting my productivity and focus. https://github.com/tmux/tmux Have you ever found yourself deep in an AI project, with a dozen terminal win…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*uF_4ed9bM30zEsBkjZBJTg.png",
-      "categories": [
-        "generative-ai-tools",
-        "ai",
-        "artificial-intelligence",
-        "ai-agent",
-        "open-source"
-      ],
       "readingTime": 7
     },
     {
-      "title": "Scrapling: The Adaptive Web Scraping Framework That Changed My Workflow",
-      "link": "https://medium.com/@ishank.iandroid/scrapling-the-adaptive-web-scraping-framework-that-changed-my-workflow-0987637f7d5b?source=rss-1e910a184252------2",
-      "pubDate": "2026-05-11 10:41:00",
+      "title": "ScaleDown CDMs: Fast, Cheap Classify, Extract and Summarize Models Tested",
+      "link": "https://ai.plainenglish.io/scaledown-cdms-fast-cheap-classify-extract-and-summarize-models-tested-a347075a8429?source=rss-1e910a184252------2",
+      "pubDate": "2026-10-24 04:31:02",
       "author": "Ishank choudhary",
       "publication": "Medium",
-      "description": "I dove deep into this powerful Python library, and here’s why it’s a game-changer for modern data extraction and anti-bot bypass. As developers, we’ve all been there: staring at a website, knowing the data we need is jus…",
-      "cover": "https://cdn-images-1.medium.com/max/1024/1*ok5P9Qr-J3TuRVa38h6OWQ.png",
+      "description": "The launch said 200x faster and 467x cheaper. I ran 1,000+ real calls on public datasets. Accuracy held up, and the price is real, but the ratios depend on what you compare against. Last week ScaleDown launched Constrain…",
+      "cover": "https://cdn-images-1.medium.com/max/1024/1*Asf0NV_qT7jPxzn5pfqcmw.png",
       "categories": [
-        "web-scraping",
-        "data-extraction",
-        "open-source",
-        "software-development",
-        "web-scraping-tools"
+        "programming",
+        "software-engineering",
+        "llm",
+        "ai",
+        "machine-learning"
       ],
       "readingTime": 8
     }
